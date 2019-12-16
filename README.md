@@ -1,6 +1,13 @@
 # Filler_
 42 Filler project 
 
+<pre>
+run : make && cd ressources && ./filler_vm -p1 players/superjeannot.filler -p2 ../ltimsit-.filler -f maps/map02
+(replace superjeannot.filler to play againt an other player)
+
+for displayer : (requiere Minilibx and OpenGL frameworks)
+pipe previous command -> (...) | ../display/display_filler
+</pre>
 
 This project is a little AI game where the goal is to fill the maximum space on a board with randomly generated piece while preventing your opponent to do so.
 
