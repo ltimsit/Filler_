@@ -7,15 +7,18 @@ This project is a little AI game where the goal is to fill the maximum space on 
 Each piece is formed of a random number of block attached to each other in a random formation:
 Exemples:
 <pre>
+1.
 .**
 .*.
 ***
 .**
 
+2.
 .***...
 .*.....
 **.....
 
+3.
 ..**
 </pre>
 Each piece must overlap with only one of your previously placed piece block.
